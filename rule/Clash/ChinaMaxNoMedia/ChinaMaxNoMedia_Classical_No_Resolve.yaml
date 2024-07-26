@@ -5,7 +5,6 @@
 # DOMAIN: 426
 # DOMAIN-KEYWORD: 11
 # DOMAIN-SUFFIX: 89918
-# IP-ASN: 1
 # IP-CIDR: 8107
 # IP-CIDR6: 3780
 # PROCESS-NAME: 14
@@ -102267,4 +102266,3 @@ payload:
   - PROCESS-NAME,Thunder
   - PROCESS-NAME,Thunder.exe
   - PROCESS-NAME,com.qiyi.video
-  - IP-ASN,132203,no-resolve
